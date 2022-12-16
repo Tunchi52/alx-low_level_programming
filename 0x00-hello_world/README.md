@@ -4,4 +4,5 @@
 # 3-name: this script compiles a C file and create an executable name 'cisfun'.
 # 4-puts.c: a C program that prints using the Puts" function.
 # 5-printf.c: A program that outsputs using the printf' function.
+# 6-size.c: A program thta prints the size of various types on the computer it is compiled and run on.
 #
