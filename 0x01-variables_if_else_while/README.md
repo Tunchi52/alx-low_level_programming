@@ -3,4 +3,5 @@
 # 2-print_alphabet: This program prints the alphabet in small caps using putchar.
 # 3-print_alphabets.c: this program prints the alphabet bot in lower and uooer case using the putchar function.
 # 4-print_alphabt.c: This program prints the alphabet except q and e , using putchar function.
+# 5-print_numbers: This program prints all single numbers of base 10 using the printf function.
 #
