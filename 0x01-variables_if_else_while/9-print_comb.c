@@ -9,7 +9,9 @@ int main(void)
 {
 	/* To print combination of single - digit numbers */
 
-	for (int i = 0; i <= 9; i++)
+	int i = 0;
+
+	for (; i <= 9; i++)
 	{
 		putchar(i + '0');
 
