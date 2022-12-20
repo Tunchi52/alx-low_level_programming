@@ -7,4 +7,5 @@
 # 6-print_numberz:This program prints from 0 - 9 using putchar funtion.
 # 7-print_tebahpla: This program prints the alphabet in reverse using the putchar function.
 # 8-print_base16.c: This program prints all numbers of base 16 in lower case using the putchar function 3 times.
+# 9-print_comb.c: This program prints all possible combination fo single-digit numbers using putchar fintion 4 times.
 #
