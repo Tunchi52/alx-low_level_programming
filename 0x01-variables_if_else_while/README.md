@@ -5,4 +5,5 @@
 # 4-print_alphabt.c: This program prints the alphabet except q and e , using putchar function.
 # 5-print_numbers: This program prints all single numbers of base 10 using the printf function.
 # 6-print_numberz:This program prints from 0 - 9 using putchar funtion.
+# 7-print_tebahpla: This program prints the alphabet in reverse using the putchar function.
 #
