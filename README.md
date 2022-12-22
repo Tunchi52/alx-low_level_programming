@@ -1,1 +1,1 @@
-/* C-promgramming language*/
+/* C-programming language*/
