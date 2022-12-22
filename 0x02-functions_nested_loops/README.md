@@ -2,3 +2,5 @@
 # 1-alphabet.c: This function prints the alphabet in lower case followed by a new line.
 # 2-print_alphabet_x10.c: This function prints 10 times the alphabet followed by a new line.
 # #-islower.c: A function that checks for lowercase character.
+# 4-isalpha.c: A function that checks for alphabetic character.
+
