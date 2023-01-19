@@ -1,6 +1,6 @@
 #include "3-calc.h"
 #include <stddef.h>
-
+#include <stdlib.h>
 /**
   * get_op_func - gets ops function pointer of type char array
   *		that accepts two inputs  of int data type
