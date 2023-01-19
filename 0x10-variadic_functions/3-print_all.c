@@ -85,7 +85,7 @@ void print_all(const char * const format, ...)
 			}
 			j++;
 		}
-		i++
+		i++;
 	}
 	va_end(valist);
 	printf("\n");
