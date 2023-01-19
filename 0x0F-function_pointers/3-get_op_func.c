@@ -1,6 +1,5 @@
 #include "3-calc.h"
-#include <stddef.h>
-#include <stdlib.h>
+#include <stdio.h>
 /**
   * get_op_func - gets ops function pointer of type char array
   *		that accepts two inputs  of int data type
@@ -23,9 +22,9 @@ int (*get_op_func(char *s))(int, int)
 	};
 	int i = 0;
 
-	while (i < 5)
+	while (ops[i].op)
 	{
-		if (*s == *ops[i].op)
+		if (strcmp(ops[i].op, s) == 0)
 			return (ops[i].f);
 		i++;
 	}
