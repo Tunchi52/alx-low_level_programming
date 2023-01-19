@@ -61,7 +61,7 @@ void print_all(const char * const format, ...)
 	unsigned int i, j;
 	print_t p[] = {
 		{"c", print_c},
-		{"s", print_s,}
+		{"s", print_s},
 		{"i", print_i},
 		{"f", print_f},
 		{NULL, NULL}
