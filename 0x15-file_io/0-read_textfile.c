@@ -10,7 +10,7 @@
 ssize_t read_textfile(const char *file_name, size_t chrs)
 {
 	int filedesc;
-	int reas_chars;
+	int read_chars;
 	char *buffer;
 
 	/* set buffer size */
