@@ -19,7 +19,7 @@ int append_text_to_file(const char *file_name, char *content)
 	if (content == NULL)
 		return (1);
 	for (len = 0; content[len]; len++)
-
+	{}
 	wr_stat = write(append_file, content, len);
 
 	close(append_file);
