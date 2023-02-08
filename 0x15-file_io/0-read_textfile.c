@@ -29,7 +29,7 @@ ssize_t read_textfile(const char *file_name, size_t chrs)
 	if (filedesc == -1)
 		return (0);
 
-	read_char = read(filedesc, buffer, chrs);
+	read_chars = read(filedesc, buffer, chrs);
 	write(STDOUT_FILENO, buffer, read_chars);
 
 	free(buffer);
